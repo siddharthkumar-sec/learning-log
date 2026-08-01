@@ -1,3 +1,3 @@
 # Certifications
 
-Preparation notes and resources for certifications.
+Preparation notes and resources for certifications. 
