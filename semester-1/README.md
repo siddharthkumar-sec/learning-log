@@ -1,4 +1,15 @@
-# Semester 1
+# 📚 Semester 1
 
-Notes and practice for BCA Semester 1 subjects.
+This folder contains all study materials, notes, assignments, practice questions, and lab work for my BCA Semester 1.
 
+## Subjects
+
+- Programming in C
+- Mathematics
+- Business Communication
+- Introduction to IT
+- Introduction to Cybersecurity
+
+## Goal
+
+Complete Semester 1 with strong fundamentals while maintaining organized notes and consistent GitHub commits.
