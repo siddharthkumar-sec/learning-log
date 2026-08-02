@@ -1,0 +1,55 @@
+Simple Definition (Easy to Remember):
+A set is a collection of different objects or items that are grouped together.
+Examples
+A = {1, 2, 3, 4} → A set of numbers.
+B = {a, e, i, o, u} → A set of vowels.
+C = {Monday, Tuesday, Wednesday} → A set of days.
+
+Important Points
+The objects in a set are called elements.
+Elements are written inside curly braces { }.
+Each element is written only once (no repetition).
+The order of elements does not matter.
+
+Example
+If A = {2, 4, 6, 8}, then:
+2, 4, 6, and 8 are the elements of set A.
+We write 2 ∈ A (2 belongs to A).
+We write 5 ∉ A (5 does not belong to A).
+
+Notation of Set
+Definition:
+Set notation is the standard way of writing a set using capital letters and curly braces { }.
+
+Rules of Set Notation
+Sets are usually represented by capital letters such as A, B, C, X, Y.
+Elements of a set are written inside curly braces { }.
+Elements are separated by commas (,).
+Each element is written only once.
+
+Examples
+A = {1, 2, 3, 4}
+B = {a, e, i, o, u}
+C = {Red, Blue, Green}
+
+Representation of Sets
+Definition:
+The representation of a set means the method of writing or describing the elements of a set.
+There are two main methods of representing a set:
+
+1. Roster (Tabular/List) Form
+In this method, all the elements of the set are listed inside curly braces { }, separated by commas.
+Examples:
+A = {2, 4, 6, 8, 10}
+B = {a, e, i, o, u}
+C = {Monday, Tuesday, Wednesday}
+Advantage: Easy to understand for small sets.
+
+2. Set-Builder (Rule) Form
+In this method, a rule or property is used to describe the elements of the set.
+Examples:
+A = {x | x is an even natural number less than 12}
+B = {x | x is a vowel in the English alphabet}
+C = {x | x is a prime number less than 10}
+Here, the symbol | means "such that."
+
