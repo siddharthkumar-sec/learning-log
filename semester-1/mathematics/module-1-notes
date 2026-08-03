@@ -238,3 +238,68 @@ The union of three sets \(A \cup B \cup C\) contains all elements that belong to
 venn diagram of A intersection B intersection C
 The intersection of three sets \(A \cap B \cap C\) contains only those elements that are common to all three sets.
 
+De Morgan's Laws (Set Theory)
+Definition
+De Morgan's Laws are two important laws in set theory that describe the relationship between union (∪), intersection (∩), and complement (′).
+These laws help simplify set expressions and are frequently asked in BCA Semester 1 exams.
+
+First De Morgan's Law
+Statement
+The complement of the union of two sets is equal to the intersection of their complements.
+
+Formula
+\[
+(A \cup B)' = A' \cap B'
+\]Meaning
+First find A ∪ B.
+Then take its complement.
+The result is the same as taking the complements of A and B separately and then intersecting them.
+
+Second De Morgan's Law
+Statement
+The complement of the intersection of two sets is equal to the union of their complements.
+
+Formula
+\[
+(A\cap B)'=A'\cup B'
+\]Meaning
+First find A ∩ B.
+Then take its complement.
+The result is the same as taking the complements of A and B separately and then finding their union.
+
+Distributive Law (Set Theory)
+Definition
+The Distributive Law in set theory describes how Union (∪) and Intersection (∩) are distributed over each other.
+There are two distributive laws.
+
+1. First Distributive Law
+Statement
+Intersection distributes over Union.
+
+Formula
+\[
+A \cap (B \cup C) = (A \cap B) \cup (A \cap C)
+\]
+
+Meaning
+Take the intersection of A with the union of B and C.
+This is equal to the union of:
+the intersection of A and B, and
+the intersection of A and C.
+
+2. Second Distributive Law
+Statement
+Union distributes over Intersection.
+
+Formula
+\[
+A \cup (B \cap C) = (A \cup B) \cap (A \cup C)
+\]
+
+Meaning
+Take the union of A with the intersection of B and C.
+This is equal to the intersection of:
+the union of A and B, and
+the union of A and C.
+
+
