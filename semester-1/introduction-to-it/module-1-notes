@@ -1,0 +1,230 @@
+Introduction to Computer (BCA Semester 1 Notes)
+Definition
+A computer is an electronic device that accepts data as input, processes it according to instructions, stores it, and produces meaningful information as output.
+
+Basic Functions of a Computer
+A computer performs four basic functions.
+
+1. Input
+The computer accepts data from the user.
+Examples:
+Keyboard
+Mouse
+Scanner
+Microphone
+
+2. Processing
+The CPU processes the input data according to instructions.
+Example:
+25 + 15 = 40
+
+3. Storage
+The computer stores data and information for future use.
+Examples
+Hard Disk (HDD)
+SSD
+Pen Drive
+RAM
+
+4. Output
+The computer displays the processed information.
+Examples
+Monitor
+Printer
+Speaker
+
+Components of a Computer
+A computer has two main components.
+
+1. Hardware
+Hardware means the physical parts of a computer that we can see and touch.
+Examples
+Monitor
+Keyboard
+Mouse
+CPU Cabinet
+Printer
+
+2. Software
+Software is a set of programs or instructions that tells the computer what to do.
+Examples
+Windows
+Linux
+MS Word
+Google Chrome
+
+Characteristics of a Computer
+
+1. Speed
+A computer works very fast and performs millions of calculations in seconds.
+
+2. Accuracy
+It gives accurate results if the input is correct.
+
+3. Storage
+It can store a large amount of data.
+
+4. Diligence
+It does not become tired or bored.
+
+5. Versatility
+It can perform different types of tasks.
+
+6. Automation
+Once instructions are given, it works automatically.
+
+7. Reliability
+It provides consistent and dependable results.
+
+Applications of Computer
+Computers are used in many fields.
+Education
+Banking
+Hospitals
+Business
+Government
+Entertainment
+Communication
+Science & Research
+Transportation
+E-commerce
+
+Advantages of Computer:-
+High speed
+High accuracy
+Large storage capacity
+Saves time
+Multitasking
+Automation
+Easy communication
+
+Limitations of Computer:-
+Cannot think like humans.
+Has no emotions.
+Depends on user instructions.
+Wrong input gives wrong output (GIGO – Garbage In, Garbage Out).
+Requires electricity to operate.
+
+1. Types of Computer Based on Working Principle
+A) Analog Computer
+Definition
+An Analog Computer processes continuous data (data that changes continuously).
+
+Features
+Works with continuous values.
+Gives approximate results.
+Used in scientific and engineering fields.
+
+Examples
+Speedometer
+Thermometer
+ECG machine
+
+B) Digital Computer
+Definition
+A Digital Computer processes discrete (binary) data such as 0 and 1.
+
+Features
+Gives accurate results.
+Fast and reliable.
+Most commonly used computer.
+
+Examples
+Desktop
+Laptop
+Smartphone
+Calculator
+
+C) Hybrid Computer
+Definition
+A Hybrid Computer combines the features of both Analog and Digital computers.
+
+Features
+High speed
+High accuracy
+Used where both continuous and digital data are required.
+
+Examples
+ICU monitoring systems
+Weather forecasting systems
+Aircraft control systems
+
+2. Types of Computer Based on Purpose
+A) General Purpose Computer
+Definition
+A General Purpose Computer is designed to perform many different tasks.
+
+Examples
+Desktop
+Laptop
+Smartphone
+
+B) Special Purpose Computer
+Definition
+A Special Purpose Computer is designed to perform only one specific task.
+
+Examples
+ATM
+Traffic light control system
+Washing machine controller
+
+3. Types of Computer Based on Size and Performance
+A) Microcomputer
+Definition
+A Microcomputer is a small computer designed for one user.
+
+Features
+Single user
+Low cost
+Commonly used at home, school, and office
+
+Examples
+Desktop
+Laptop
+Tablet
+Smartphone
+
+B) Minicomputer
+Definition
+A Minicomputer is more powerful than a microcomputer and supports multiple users.
+
+Features
+Multi-user
+Medium-sized organizations
+Moderate processing power
+Examples
+Departmental servers
+Small business servers
+
+C) Mainframe Computer
+Definition
+A Mainframe Computer is a very powerful computer used to process large amounts of data for hundreds or thousands of users simultaneously.
+
+Features
+Very high speed
+Large storage
+Supports many users
+Highly reliable
+
+Examples
+Banks
+Airlines
+Government departments
+Insurance companies
+
+D) Supercomputer
+Definition
+A Supercomputer is the fastest and most powerful type of computer.
+
+Features
+Extremely high processing speed
+Handles complex calculations
+Used for scientific research
+
+Examples
+Weather forecasting
+Space research
+Nuclear research
+Artificial Intelligence
+Climate modeling
+
