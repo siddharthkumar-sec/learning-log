@@ -302,4 +302,242 @@ This is equal to the intersection of:
 the union of A and B, and
 the union of A and C.
 
+Matrix
+Definition
+A Matrix is a rectangular arrangement of numbers, symbols, or algebraic expressions arranged in rows and columns, enclosed within square brackets [ ] or parentheses ( ).
+A matrix is usually represented by capital letters such as A, B, C.
+
+General Form of a Matrix
+\[
+A=
+\begin{bmatrix}
+a_{11} & a_{12} & a_{13}\\
+a_{21} & a_{22} & a_{23}\\
+a_{31} & a_{32} & a_{33}
+\end{bmatrix}
+\]where \(a_{ij}\) represents the element in the i-th row and j-th column.
+
+Example
+\[
+A=
+\begin{bmatrix}
+2 & 4 & 6\\
+1 & 3 & 5
+\end{bmatrix}
+\]Number of Rows = 2
+Number of Columns = 3
+Therefore, the order of the matrix is:
+\[
+\boxed{2 \times 3}
+\]Order of a Matrix
+The order of a matrix is written as:
+\[
+m \times n
+\]where:
+m = Number of rows
+n = Number of columns
+
+Example
+\[
+\begin{bmatrix}
+1 & 2\\
+3 & 4\\
+5 & 6
+\end{bmatrix}
+\]Rows = 3
+Columns = 2
+Order = \(3 \times 2\)
+
+Elements of a Matrix
+Each number inside a matrix is called an element.
+Example:
+\[
+A=
+\begin{bmatrix}
+5 & 8\\
+2 & 9
+\end{bmatrix}
+\]5, 8, 2, and 9 are the elements of the matrix.
+The element in the 1st row and 2nd column is:
+\[
+a_{12}=8
+\]
+
+Applications of Matrix
+Matrices are used in:
+Computer Graphics
+Data Science
+Artificial Intelligence (AI)
+Engineering
+Economics
+Cryptography
+Machine Learning
+Network Analysis
+
+Types of Matrix
+A matrix can be classified into different types based on its order and elements.
+
+1. Row Matrix
+Definition
+A matrix having only one row is called a Row Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+2 & 4 & 6 & 8
+\end{bmatrix}
+\]Order: \(1 \times 4\)
+
+2. Column Matrix
+Definition
+A matrix having only one column is called a Column Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+2\\
+4\\
+6\\
+8
+\end{bmatrix}
+\]Order: \(4 \times 1\)
+
+3. Rectangular Matrix
+Definition
+A matrix in which the number of rows is not equal to the number of columns is called a Rectangular Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+1 & 2 & 3\\
+4 & 5 & 6
+\end{bmatrix}
+\]Order: \(2 \times 3\)
+
+4. Square Matrix
+Definition
+A matrix in which the number of rows is equal to the number of columns is called a Square Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+1 & 2\\
+3 & 4
+\end{bmatrix}
+\]Order: \(2 \times 2\)
+
+5. Zero (Null) Matrix
+Definition
+A matrix in which all elements are 0 is called a Zero Matrix or Null Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+0 & 0\\
+0 & 0
+\end{bmatrix}
+\
+
+]6. Diagonal Matrix
+Definition
+A square matrix in which all non-diagonal elements are 0 is called a Diagonal Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+5 & 0 & 0\\
+0 & 8 & 0\\
+0 & 0 & 3
+\end{bmatrix}
+\
+
+]7. Scalar Matrix
+Definition
+A diagonal matrix in which all diagonal elements are equal is called a Scalar Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+4 & 0 & 0\\
+0 & 4 & 0\\
+0 & 0 & 4
+\end{bmatrix}
+\]
+
+8. Identity (Unit) Matrix
+Definition
+A square matrix in which all diagonal elements are 1 and all other elements are 0 is called an Identity Matrix or Unit Matrix.
+Symbol
+\[
+I
+\]
+
+Example
+\[
+I=\begin{bmatrix}
+1 & 0 & 0\\
+0 & 1 & 0\\
+0 & 0 & 1
+\end{bmatrix}
+\]
+
+9. Upper Triangular Matrix
+Definition
+A square matrix in which all elements below the main diagonal are 0 is called an Upper Triangular Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+2 & 3 & 1\\
+0 & 5 & 6\\
+0 & 0 & 8
+\end{bmatrix}
+\]
+
+10. Lower Triangular Matrix
+Definition
+A square matrix in which all elements above the main diagonal are 0 is called a Lower Triangular Matrix.
+
+Example
+\[
+A=\begin{bmatrix}
+2 & 0 & 0\\
+5 & 3 & 0\\
+7 & 6 & 4
+\end{bmatrix}
+\]
+
+11. Symmetric Matrix
+Definition
+A square matrix is called Symmetric if it is equal to its transpose.
+Condition
+\[
+A=A^T
+\]
+
+Example
+\[
+A=\begin{bmatrix}
+1 & 2 & 3\\
+2 & 4 & 5\\
+3 & 5 & 6
+\end{bmatrix}
+\]
+
+12. Skew-Symmetric Matrix
+Definition
+A square matrix is called Skew-Symmetric if its transpose is equal to the negative of the matrix.
+Condition
+\[
+A^T=-A
+\]
+
+Example
+\[
+A=\begin{bmatrix}
+0 & 2 & -1\\
+-2 & 0 & 4\\
+1 & -4 & 0
+\end{bmatrix}
+\]
 
