@@ -171,7 +171,11 @@ Therefore:
 B ⊇ A
 A ⊆ B
 
-12. Power Set
+12. Cartesian Product (Cartesian Set)
+Definition
+The Cartesian Product of two sets A and B is the set of all ordered pairs \((a, b)\), where the first element belongs to A and the second element belongs to B.
+
+13. Power Set
 Definition
 The Power Set of a set A is the set of all possible subsets of A, including the empty set (∅) and the set A itself.
 Symbol
