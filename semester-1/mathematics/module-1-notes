@@ -53,3 +53,153 @@ B = {x | x is a vowel in the English alphabet}
 C = {x | x is a prime number less than 10}
 Here, the symbol | means "such that."
 
+Types of Sets
+A set can be classified into different types based on the number and nature of its elements.
+
+1. Empty Set (Null Set)
+Definition
+A set that contains no elements is called an Empty Set or Null Set.
+Symbol
+∅ or { }
+
+Example
+A = {x | x is a natural number less than 1}
+A = ∅
+
+2. Singleton Set (Unit Set)
+Definition
+A set that contains only one element is called a Singleton Set.
+
+Example
+A = {5}
+B = {a}
+
+3. Finite Set
+Definition
+A set that contains a limited (countable) number of elements is called a Finite Set.
+
+Example
+A = {1, 2, 3, 4, 5}
+B = {Red, Green, Blue}
+
+4. Infinite Set
+Definition
+A set that contains unlimited (infinitely many) elements is called an Infinite Set.
+
+Example
+N = {1, 2, 3, 4, 5, ...}
+Even numbers = {2, 4, 6, 8, ...}
+
+5. Equal Sets
+Definition
+Two sets are equal if they contain exactly the same elements.
+Symbol
+A = B
+
+Example
+A = {1, 2, 3}
+B = {3, 2, 1}
+Since both have the same elements,
+A = B
+
+6. Equivalent Sets
+Definition
+Two sets are equivalent if they have the same number of elements, even if the elements are different.
+Symbol
+n(A) = n(B)
+
+Example
+A = {1, 2, 3}
+B = {a, b, c}
+Both have 3 elements, so they are equivalent sets.
+
+7. Universal Set
+Definition
+A Universal Set is the set that contains all the elements under consideration.
+Symbol
+U
+
+Example
+U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+A = {2, 4, 6}
+Here, A ⊆ U.
+
+8. Subset
+Definition
+A set A is called a subset of set B if every element of A is also an element of B.
+Symbol
+A ⊆ B
+
+Example
+A = {2, 4}
+B = {1, 2, 3, 4, 5}
+Since every element of A is in B,
+A ⊆ B
+
+9. Proper Subset
+Definition
+A proper subset is a subset that is not equal to the original set.
+Symbol
+A ⊂ B
+
+Example
+A = {1, 2}
+B = {1, 2, 3}
+Here,
+A ⊂ B
+
+10. Disjoint Sets
+Definition
+Two sets are disjoint if they have no common elements.
+
+Example
+A = {1, 2, 3}
+B = {4, 5, 6}
+Since A ∩ B = ∅, they are disjoint sets.
+
+11. Superset
+Definition
+A set B is called a Superset of set A if every element of A is also an element of B.
+Symbol
+B ⊇ A
+
+Example
+A = {2, 4}
+B = {1, 2, 3, 4, 5}
+Since all elements of A are present in B, B is the superset of A.
+Therefore:
+B ⊇ A
+A ⊆ B
+
+12. Power Set
+Definition
+The Power Set of a set A is the set of all possible subsets of A, including the empty set (∅) and the set A itself.
+Symbol
+P(A)
+
+Example 1
+Let A = {a, b}
+Subsets of A are:
+∅
+{a}
+{b}
+{a, b}
+Therefore,
+P(A) = {∅, {a}, {b}, {a, b}}
+Number of elements in P(A) = 4
+
+Formula
+If a set has n elements, then:
+\[
+\boxed{n(P(A)) = 2^n}
+\]where:
+n(A) = Number of elements in set A
+n(P(A)) = Number of elements in the power set
+
+Examples
+If A = {1, 2}, then n = 2
+n(P(A)) = 2² = 4
+If A = {1, 2, 3}, then:
+n = 3
+n(P(A)) = 2³ = 8
+
