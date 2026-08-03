@@ -203,3 +203,34 @@ If A = {1, 2, 3}, then:
 n = 3
 n(P(A)) = 2³ = 8
 
+Venn Diagram
+Definition
+A Venn Diagram is a diagram made of circles that is used to represent sets and show the relationship between them.
+
+It helps us understand:
+Union (A ∪ B)
+Intersection (A ∩ B)
+Difference (A − B)
+Complement (A′)
+
+Venn diagram of A union B
+The Union of two sets A and B is the set of all elements that are in A, or in B, or in both.
+
+venn diagram of A intersection B
+The Intersection of two sets A and B is the set of elements that are common to both A and B.
+
+venn diagram od A - B
+The Difference of Sets \(A - B\) means the elements that are in A but not in B.
+
+venn diagram of B - A
+The Difference of Sets \(B - A\) means the elements that are in B but not in A.
+
+venn diagram of A compliment
+The Complement of Set A consists of all the elements in the Universal Set (U) that are not in A.
+
+venn diagram of A union B union C
+The union of three sets \(A \cup B \cup C\) contains all elements that belong to A, B, or C, or to any combination of these sets.
+
+venn diagram of A intersection B intersection C
+The intersection of three sets \(A \cap B \cap C\) contains only those elements that are common to all three sets.
+
