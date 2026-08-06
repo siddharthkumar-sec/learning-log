@@ -12,4 +12,4 @@ This folder contains all study materials, notes, assignments, practice questions
 
 ## Goal
 
-Complete Semester 1 with strong fundamentals while maintaining organized notes and consistent GitHub commits.
+Complete Semester 1 with strong fundamentals while maintaining organized notes and consistent GitHub commits. 
