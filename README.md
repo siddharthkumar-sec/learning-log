@@ -21,7 +21,7 @@ This repository documents my journey as a BCA (Cloud & Cybersecurity) student. I
 learning-log/
 │
 ├── daily-logs/
-├── semester-1/
+├── BCA/
 ├── python/
 ├── linux/
 ├── networking/
