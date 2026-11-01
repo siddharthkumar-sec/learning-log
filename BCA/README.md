@@ -1,52 +1,132 @@
-# Bachelor of Computer Applications
+<div align="center">
 
-**Cloud Computing & Security · Amity University Online**
+# BCA · Cloud Computing & Security
 
-This directory contains the academic component of my BCA program, organized by semester to maintain a structured record of coursework and study materials.
+### Academic Portfolio
 
-My academic learning complements my independent technical practice in programming, networking, Linux, cloud infrastructure, and cybersecurity.
+**Amity University Online**
+
+A structured record of my academic journey in computer applications, with a specialization in cloud computing and security.
+
+<br>
+
+![Degree](https://img.shields.io/badge/Program-BCA-2563EB?style=flat-square)
+![Specialization](https://img.shields.io/badge/Specialization-Cloud%20%26%20Security-0F766E?style=flat-square)
+![Learning](https://img.shields.io/badge/Approach-Learn%20by%20Doing-7C3AED?style=flat-square)
+
+</div>
 
 ---
 
-## Academic Structure
+## Overview
 
-The BCA program is organized into six semesters. Each semester has a dedicated directory containing its relevant academic resources and documentation.
+This directory serves as the academic hub for my Bachelor of Computer Applications program. It organizes semester-wise coursework and learning resources in a consistent, accessible structure.
 
-| Semester | Directory |
+Alongside university studies, I am developing practical skills in programming, networking, Linux, cloud infrastructure, and cybersecurity to connect academic concepts with real-world technology.
+
+## Academic Roadmap
+
+Explore the academic resources for each stage of the degree.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Semester One
+
+Foundation coursework and introductory concepts.
+
+**[Explore Semester 1 →](./semester-1/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · Semester Two
+
+A dedicated space for second-semester coursework.
+
+**[Explore Semester 2 →](./semester-2/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Semester Three
+
+Resources and documentation for the third semester.
+
+**[Explore Semester 3 →](./semester-3/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · Semester Four
+
+A structured collection of fourth-semester resources.
+
+**[Explore Semester 4 →](./semester-4/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 · Semester Five
+
+Academic materials for the fifth semester.
+
+**[Explore Semester 5 →](./semester-5/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 06 · Semester Six
+
+Academic materials for the final semester.
+
+**[Explore Semester 6 →](./semester-6/)**
+
+</td>
+</tr>
+</table>
+
+## Areas of Development
+
+My academic learning is part of a broader technical development path.
+
+| Domain | Direction |
 |:--|:--|
-| Semester 01 | [`semester-1/`](./semester-1/) |
-| Semester 02 | [`semester-2/`](./semester-2/) |
-| Semester 03 | [`semester-3/`](./semester-3/) |
-| Semester 04 | [`semester-4/`](./semester-4/) |
-| Semester 05 | [`semester-5/`](./semester-5/) |
-| Semester 06 | [`semester-6/`](./semester-6/) |
+| Computer Science | Core concepts and problem-solving |
+| Programming | Writing and understanding code |
+| Cloud Computing | Cloud infrastructure and services |
+| Cybersecurity | Security principles and defensive practices |
 
----
+## Beyond the Classroom
 
-## Academic Focus
+University coursework is one part of my learning process. I also maintain separate spaces for hands-on practice and independent technical development.
 
-The program provides the academic foundation for my broader technical development, particularly in:
+<div align="center">
 
-- Computer Science Fundamentals
-- Programming and Problem Solving
-- Cloud Computing
-- Information Security and Cybersecurity
-
-These areas connect my university coursework with the practical skills I am developing independently.
-
----
-
-## Related Work
-
-| Area | Repository |
+| Technical Area | Explore |
 |:--|:--|
-| Programming | [`python/`](../python/) |
-| Operating Systems | [`linux/`](../linux/) |
-| Networking | [`networking/`](../networking/) |
-| Cloud Computing | [`cloud/`](../cloud/) |
-| Cybersecurity | [`cybersecurity/`](../cybersecurity/) |
-| Practical Projects | [`projects/`](../projects/) |
+| Python | [View Learning Directory](../python/) |
+| Linux | [View Learning Directory](../linux/) |
+| Networking | [View Learning Directory](../networking/) |
+| Cloud Computing | [View Learning Directory](../cloud/) |
+| Cybersecurity | [View Learning Directory](../cybersecurity/) |
+| Projects | [Explore Projects](../projects/) |
+
+</div>
 
 ---
 
-*Part of the [Learning Log](../README.md) — a documented record of academic study and technical development.*
+<div align="center">
+
+**LEARN · BUILD · DOCUMENT · IMPROVE**
+
+[← Back to Learning Log](../README.md)
+
+<sub>Maintained as part of my ongoing academic and technical development.</sub>
+
+</div>
