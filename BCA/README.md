@@ -1,121 +1,224 @@
 <div align="center">
 
-# BCA · Cloud Computing & Security
+# BCA / Cloud Computing & Security
 
-### Academic Portfolio
+### `ACADEMIC PORTFOLIO` · `2026 — 2029`
 
 **Amity University Online**
 
-A structured record of my academic journey in computer applications, with a specialization in cloud computing and security.
+Building a foundation in computer applications, cloud infrastructure, and cybersecurity — with a focus on understanding technology, applying concepts, and developing practical engineering skills.
 
 <br>
 
-![Degree](https://img.shields.io/badge/Program-BCA-2563EB?style=flat-square)
-![Specialization](https://img.shields.io/badge/Specialization-Cloud%20%26%20Security-0F766E?style=flat-square)
-![Learning](https://img.shields.io/badge/Approach-Learn%20by%20Doing-7C3AED?style=flat-square)
+<img src="https://img.shields.io/badge/DEGREE-BCA-2563EB?style=for-the-badge&labelColor=0B1220" alt="Degree: BCA" />
+<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%26%20SECURITY-0891B2?style=for-the-badge&labelColor=0B1220" alt="Focus: Cloud and Security" />
+<img src="https://img.shields.io/badge/MINDSET-LEARN%20%26%20BUILD-7C3AED?style=for-the-badge&labelColor=0B1220" alt="Mindset: Learn and Build" />
+
+<br><br>
+
+[Academic Roadmap](#-academic-roadmap) · [Technical Domains](#-technical-domains) · [Learning Approach](#-learning-approach)
 
 </div>
 
 ---
 
-## Overview
+## 01 / Academic Overview
 
-This directory serves as the academic hub for my Bachelor of Computer Applications program. It organizes semester-wise coursework and learning resources in a consistent, accessible structure.
+This directory is the academic hub of my Bachelor of Computer Applications program.
 
-Alongside university studies, I am developing practical skills in programming, networking, Linux, cloud infrastructure, and cybersecurity to connect academic concepts with real-world technology.
+It organizes university coursework into a semester-based structure while connecting foundational computer science concepts with my broader interests in cloud computing, cybersecurity, and software technology.
 
-## Academic Roadmap
-
-Explore the academic resources for each stage of the degree.
+My objective is to develop more than theoretical knowledge: I want to understand how systems work, apply what I learn, and document my progress through practical work.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 · Semester One
+**PROGRAM**
 
-Foundation coursework and introductory concepts.
-
-**[Explore Semester 1 →](./semester-1/)**
+Bachelor of Computer Applications
 
 </td>
 <td width="50%" valign="top">
 
-### 02 · Semester Two
+**SPECIALIZATION**
 
-A dedicated space for second-semester coursework.
-
-**[Explore Semester 2 →](./semester-2/)**
+Cloud Computing & Security
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 · Semester Three
+**INSTITUTION**
 
-Resources and documentation for the third semester.
-
-**[Explore Semester 3 →](./semester-3/)**
+Amity University Online
 
 </td>
 <td width="50%" valign="top">
 
-### 04 · Semester Four
+**ACADEMIC PERIOD**
 
-A structured collection of fourth-semester resources.
-
-**[Explore Semester 4 →](./semester-4/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05 · Semester Five
-
-Academic materials for the fifth semester.
-
-**[Explore Semester 5 →](./semester-5/)**
-
-</td>
-<td width="50%" valign="top">
-
-### 06 · Semester Six
-
-Academic materials for the final semester.
-
-**[Explore Semester 6 →](./semester-6/)**
+2026–2029
 
 </td>
 </tr>
 </table>
 
-## Areas of Development
+---
 
-My academic learning is part of a broader technical development path.
+## 02 / Academic Roadmap
 
-| Domain | Direction |
-|:--|:--|
-| Computer Science | Core concepts and problem-solving |
-| Programming | Writing and understanding code |
-| Cloud Computing | Cloud infrastructure and services |
-| Cybersecurity | Security principles and defensive practices |
+Six semesters. One structured academic journey.
 
-## Beyond the Classroom
+Each semester has its own directory and README, keeping subject-specific resources separate from this overview.
 
-University coursework is one part of my learning process. I also maintain separate spaces for hands-on practice and independent technical development.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `SEM / 01`
+
+**Foundation**
+
+Explore the first-semester coursework and study materials.
+
+[OPEN SEMESTER 01 →](./semester-1/)
+
+</td>
+<td width="50%" valign="top">
+
+### `SEM / 02`
+
+**Progression**
+
+Explore the second-semester academic resources.
+
+[OPEN SEMESTER 02 →](./semester-2/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `SEM / 03`
+
+**Development**
+
+Explore the third-semester academic resources.
+
+[OPEN SEMESTER 03 →](./semester-3/)
+
+</td>
+<td width="50%" valign="top">
+
+### `SEM / 04`
+
+**Application**
+
+Explore the fourth-semester academic resources.
+
+[OPEN SEMESTER 04 →](./semester-4/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `SEM / 05`
+
+**Specialization**
+
+Explore the fifth-semester academic resources.
+
+[OPEN SEMESTER 05 →](./semester-5/)
+
+</td>
+<td width="50%" valign="top">
+
+### `SEM / 06`
+
+**Completion**
+
+Explore the sixth-semester academic resources.
+
+[OPEN SEMESTER 06 →](./semester-6/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / Technical Domains
+
+My academic foundation connects with a broader technical learning path. These directories contain independent learning resources and practical work.
+
+| DOMAIN | AREA OF INTEREST | EXPLORE |
+|:--|:--|:--|
+| `01` Programming | Python, problem-solving, automation | [Python](../python/) |
+| `02` Systems | Linux, command-line fundamentals | [Linux](../linux/) |
+| `03` Networking | Network fundamentals and communication | [Networking](../networking/) |
+| `04` Cloud | Cloud infrastructure and services | [Cloud](../cloud/) |
+| `05` Security | Cybersecurity and defensive practices | [Cybersecurity](../cybersecurity/) |
+| `06` Engineering | Practical implementations and experiments | [Projects](../projects/) |
+
+---
+
+## 04 / Learning in the AI Era
+
+AI is changing how software is developed, systems are operated, and technical problems are solved. My approach is to build strong fundamentals while learning how to use modern tools responsibly.
+
+**My learning principles:**
+
+- **Understand the fundamentals** — build conceptual knowledge instead of relying entirely on generated answers.
+- **Practice deliberately** — turn theoretical concepts into exercises, experiments, and hands-on work.
+- **Use AI critically** — evaluate suggestions, verify outputs, and understand the solutions I adopt.
+- **Build and document** — maintain a record of implementations, decisions, and lessons learned.
+- **Prioritize security** — consider reliability, privacy, and secure design when working with technology.
+
+The goal is not simply to use more tools. It is to develop the judgment to choose, understand, and apply them effectively.
+
+---
+
+## 05 / Engineering Direction
+
+My current long-term direction is **Cloud Security Engineering**.
+
+The areas below represent the skills I intend to develop progressively through academic study, independent practice, and projects.
+
+```text
+COMPUTER SCIENCE FUNDAMENTALS
+            |
+            v
+PROGRAMMING + LINUX + NETWORKING
+            |
+            v
+CLOUD INFRASTRUCTURE + AUTOMATION
+            |
+            v
+SECURITY ENGINEERING + DEVSECOPS
+            |
+            v
+       CLOUD SECURITY
+```
+
+This is a learning direction, not a claim of completed proficiency. Progress will be demonstrated through practical work and documented projects as I develop these skills.
+
+---
+
+## 06 / Explore the Repository
+
+This academic directory is one component of my broader technical learning log.
 
 <div align="center">
 
-| Technical Area | Explore |
+| RESOURCE | PURPOSE |
 |:--|:--|
-| Python | [View Learning Directory](../python/) |
-| Linux | [View Learning Directory](../linux/) |
-| Networking | [View Learning Directory](../networking/) |
-| Cloud Computing | [View Learning Directory](../cloud/) |
-| Cybersecurity | [View Learning Directory](../cybersecurity/) |
-| Projects | [Explore Projects](../projects/) |
+| [Main Learning Log](../README.md) | Repository overview and current learning focus |
+| [Daily Logs](../daily-logs/) | Record of learning activities and progress |
+| [Certifications](../certifications/) | Certification preparation and related resources |
+| [Projects](../projects/) | Practical implementations and experiments |
 
 </div>
 
@@ -123,10 +226,14 @@ University coursework is one part of my learning process. I also maintain separa
 
 <div align="center">
 
-**LEARN · BUILD · DOCUMENT · IMPROVE**
+### UNDERSTAND → PRACTICE → BUILD → VERIFY → IMPROVE
+
+*Academic foundations. Practical engineering. Continuous learning.*
+
+<br>
 
 [← Back to Learning Log](../README.md)
 
-<sub>Maintained as part of my ongoing academic and technical development.</sub>
+<sub>Maintained by Siddharth Kumar · BCA, Cloud Computing & Security</sub>
 
 </div>
