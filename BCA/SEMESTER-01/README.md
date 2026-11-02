@@ -26,7 +26,7 @@ It brings together subject-wise learning resources, study materials, sample ques
 | No. | Subject | Learning Focus |
 |:---:|---|---|
 | 01 | **Programming in C** | Programming fundamentals and problem-solving |
-| 02 | **Mathematics** | Mathematical concepts and logical reasoning |
+| 02 | **Basic Mathematics** | Mathematical concepts and logical reasoning |
 | 03 | **Business Communication** | Communication and professional writing |
 | 04 | **Introduction to IT** | Computer fundamentals and information technology |
 | 05 | **Introduction to Cybersecurity** | Security fundamentals and cyber awareness |
