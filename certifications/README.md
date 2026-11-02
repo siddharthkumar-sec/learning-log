@@ -16,7 +16,7 @@ This folder tracks my certification preparation, study notes, and progress throu
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ### Cisco
-- Cisco Certified Network Associate (CCNA)
+- Cisco Certified Network Associate (CCNA) 
 
 ## Goal
 
