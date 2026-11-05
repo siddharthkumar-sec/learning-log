@@ -25,11 +25,11 @@ The resources are organized module-wise to make learning, revision, and exam pre
 
 | Module | Study Notes |
 |:---:|:---|
-| Module 01 | [View Notes](./module-1-notes/) |
-| Module 02 | [View Notes](./module-2-notes/) |
-| Module 03 | [View Notes](./module-3-notes/) |
-| Module 04 | [View Notes](./module-4-notes/) |
-| Module 05 | [View Notes](./module-5-notes/) |
+| Module-1(Notes) | [View Notes](./module-1-notes/) |
+| Module-2(Notes) | [View Notes](./module-2-notes/) |
+| Module-3(Notes) | [View Notes](./module-3-notes/) |
+| Module-4(Notes) | [View Notes](./module-4-notes/) |
+| Module-5(Notes) | [View Notes](./module-5-notes/) |
 
 ## Practice & Assessment
 
