@@ -25,17 +25,17 @@ The resources are organized module-wise to support conceptual understanding, mat
 
 | Module | Study Notes |
 |:---:|:---|
-| Module-1 (Notes) | [View Notes](PASTE_MODULE_1_PDF_LINK) |
-| Module-2 (Notes) | [View Notes](PASTE_MODULE_2_PDF_LINK) |
-| Module-3 (Notes) | [View Notes](PASTE_MODULE_3_PDF_LINK) |
-| Module-4 (Notes) | [View Notes](PASTE_MODULE_4_PDF_LINK) |
+| Module-1 (Notes) | [View Notes](https://www.mediafire.com/file/8c6yybqmqqs2l8e/Definition_of_Set_%2528module-1%2529.pdf/file) |
+| Module-2 (Notes) | [View Notes](https://www.mediafire.com/file/q2qyep9o5mm5dya/Mathematics_%2528Module_2%2529.pdf/file) |
+| Module-3 (Notes) | [View Notes](https://www.mediafire.com/file/s2jx9r0nue1jtd9/Mathematics_%25E2%2580%2594_Module_3.pdf/file) |
+| Module-4 (Notes) | [View Notes](https://www.mediafire.com/file/8ykts5nptcr67i9/Basic_Mathematics__%25E2%2580%2594_Module_4.pdf/file) |
 | Module-5 (Notes) | [View Notes](PASTE_MODULE_5_PDF_LINK) |
 
 ## Practice & Assessment
 
 | Resource | Description |
 |:---|:---|
-| [Sample Questions](PASTE_SAMPLE_QUESTIONS_LINK) | Questions for mathematical practice, revision, and exam preparation |
+| [Sample Questions](https://www.mediafire.com/file/b6m90f9gyzzjx7x/Basic+Mathematics+-+1+-+Sample+QP+(1).pdf/file) | Questions for mathematical practice, revision, and exam preparation |
 
 ## Learning Objectives
 
