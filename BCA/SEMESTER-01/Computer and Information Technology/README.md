@@ -26,10 +26,10 @@ The resources are organized module-wise to make learning, revision, and exam pre
 | Module | Study Notes |
 |:---:|:---|
 | Module-1(Notes) | [View Notes](https://www.mediafire.com/file/aww8gpbd6p1cx5a/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-1%2529.pdf/file) |
-| Module-2(Notes) | [View Notes](./module-2-notes/) |
-| Module-3(Notes) | [View Notes](./module-3-notes/) |
-| Module-4(Notes) | [View Notes](./module-4-notes/) |
-| Module-5(Notes) | [View Notes](./module-5-notes/) |
+| Module-2(Notes) | [View Notes](https://www.mediafire.com/file/zydh0ai7jmnmgdv/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-2%2529.pdf/file) |
+| Module-3(Notes) | [View Notes](https://www.mediafire.com/file/twdwyfwhpqivquv/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-3%2529.pdf/file) |
+| Module-4(Notes) | [View Notes](https://www.mediafire.com/file/4omrt6r6vy7cdoy/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-4%2529.pdf/file) |
+| Module-5(Notes) | [View Notes](https://www.mediafire.com/file/giuxd8hzr9t4m1n/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-5%2529.pdf/file) |
 
 ## Practice & Assessment
 
