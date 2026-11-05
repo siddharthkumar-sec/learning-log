@@ -83,7 +83,7 @@ Each semester has an independent directory containing its coursework, learning r
 
 First-semester coursework and foundational concepts.
 
-[EXPLORE SEMESTER 01 →](BCA/SEMESTER-01)
+[EXPLORE SEMESTER 01 →](https://github.com/siddharthkumar-sec/learning-log/tree/3d28b6572d5ba254159fb3408e4af196e5b70365/BCA/SEMESTER-01)
 
 </td>
 <td width="33%" valign="top">
