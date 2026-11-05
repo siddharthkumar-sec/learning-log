@@ -35,7 +35,7 @@ The resources are organized module-wise to make learning, revision, and exam pre
 
 | Resource | Description |
 |:---|:---|
-| [Sample Questions](./sample%20questions/) | Questions for revision and exam practice |
+| [Sample Questions](https://www.mediafire.com/file/ggzs9iefn2o3e1t/Computer+and+Information+Technology.pdf/file) | Questions for revision and exam practice |
 
 ## Learning Objectives
 
