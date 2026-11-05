@@ -83,7 +83,7 @@ Each semester has an independent directory containing its coursework, learning r
 
 First-semester coursework and foundational concepts.
 
-[EXPLORE SEMESTER 01 →](./semester-1/)
+[EXPLORE SEMESTER 01 →](./SEMESTER-01/)
 
 </td>
 <td width="33%" valign="top">
@@ -94,7 +94,7 @@ First-semester coursework and foundational concepts.
 
 Second-semester academic resources.
 
-[EXPLORE SEMESTER 02 →](./semester-2/)
+[EXPLORE SEMESTER 02 →](./SEMESTER-02/)
 
 </td>
 <td width="33%" valign="top">
@@ -105,7 +105,7 @@ Second-semester academic resources.
 
 Third-semester academic resources.
 
-[EXPLORE SEMESTER 03 →](./semester-3/)
+[EXPLORE SEMESTER 03 →](./SEMESTER-03/)
 
 </td>
 </tr>
@@ -118,7 +118,7 @@ Third-semester academic resources.
 
 Fourth-semester academic resources.
 
-[EXPLORE SEMESTER 04 →](./semester-4/)
+[EXPLORE SEMESTER 04 →](./SEMESTER-04/)
 
 </td>
 <td width="33%" valign="top">
@@ -129,7 +129,7 @@ Fourth-semester academic resources.
 
 Fifth-semester academic resources.
 
-[EXPLORE SEMESTER 05 →](./semester-5/)
+[EXPLORE SEMESTER 05 →](./SEMESTER-05/)
 
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ Fifth-semester academic resources.
 
 Final-semester academic resources.
 
-[EXPLORE SEMESTER 06 →](./semester-6/)
+[EXPLORE SEMESTER 06 →](./SEMESTER-06/)
 
 </td>
 </tr>
