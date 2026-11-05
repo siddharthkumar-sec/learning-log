@@ -25,7 +25,7 @@ The resources are organized module-wise to make learning, revision, and exam pre
 
 | Module | Study Notes |
 |:---:|:---|
-| Module-1(Notes) | [View Notes](./module-1-notes/) |
+| Module-1(Notes) | [View Notes](https://www.mediafire.com/file/aww8gpbd6p1cx5a/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-1%2529.pdf/file) |
 | Module-2(Notes) | [View Notes](./module-2-notes/) |
 | Module-3(Notes) | [View Notes](./module-3-notes/) |
 | Module-4(Notes) | [View Notes](./module-4-notes/) |
