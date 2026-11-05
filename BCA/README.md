@@ -83,7 +83,7 @@ Each semester has an independent directory containing its coursework, learning r
 
 First-semester coursework and foundational concepts.
 
-[EXPLORE SEMESTER 01 →](./semester-1/)
+[EXPLORE SEMESTER 01 →](BCA/SEMESTER-01)
 
 </td>
 <td width="33%" valign="top">
