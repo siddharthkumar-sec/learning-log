@@ -40,7 +40,7 @@ My objective is to gradually transform theoretical knowledge into practical engi
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=02+%E2%80%94+MISSION+%26+OBJECTIVES;Building+Skills+With+Purpose." />
 
-</div> align="center">
+<div align="center">
 
 | OBJECTIVE | DIRECTION |
 |:---|:---|
