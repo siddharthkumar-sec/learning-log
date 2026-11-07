@@ -1,6 +1,6 @@
  <div align="center">
 
-<<img width="100%" src="https://vercel.app" />
+<img width="100%" src="https://vercel.app" />
 
 # BCA / CLOUD COMPUTING & SECURITY
 
