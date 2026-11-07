@@ -1,7 +1,5 @@
  <div align="center">
 
-<img width="100%" src="https://vercel.app" />
-
 # BCA / CLOUD COMPUTING & SECURITY
 
 ### ACADEMIC PORTFOLIO · 2026 — 2029
