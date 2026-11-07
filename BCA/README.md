@@ -1,6 +1,8 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=190&amp;color=0:0B1220,45:142B4D,100:5427A8&amp;text=ACADEMIC%20PORTFOLIO&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=40&amp;desc=BCA%20%7C%20CLOUD%20COMPUTING%20%26%20SECURITY&amp;descSize=14&amp;descAlignY=60&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&amp;height=190&amp;color=0%3A0B1220%2C45%3A142B4D%2C100%3A5427A8&amp;text=ACADEMIC%20PORTFOLIO&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=40&amp;desc=BCA%20%7C%20CLOUD%20COMPUTING%20%26%20SECURITY&amp;descSize=14&amp;descAlignY=60&amp;animation=fadeIn" alt="Academic Portfolio Header" />
+
+</div>
 
 # BCA / CLOUD COMPUTING & SECURITY
 
