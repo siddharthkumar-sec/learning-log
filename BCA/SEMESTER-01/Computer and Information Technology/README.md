@@ -56,7 +56,7 @@ I maintain this repository to organize my study materials, access module-wise no
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=17&amp;duration=2500&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=YOUR+STUDY+MATERIALS;Five+Modules.+One+Knowledge+Base." alt="Module library" />
 
-</div>
+<div align="center">
 
 All five module PDFs are organized below for convenient access.
 
