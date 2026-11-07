@@ -1,5 +1,7 @@
  <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:0B1220,45:142B4D,100:5427A8&text=ACADEMIC%20PORTFOLIO&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=BCA%20%7C%20CLOUD%20COMPUTING%20%26%20SECURITY&descSize=14&descAlignY=60&animation=fadeIn" />
+
 # BCA / CLOUD COMPUTING & SECURITY
 
 ### ACADEMIC PORTFOLIO · 2026 — 2029
@@ -8,25 +10,33 @@
 
 *Building the foundations of modern computing, cloud infrastructure, and cybersecurity through structured academic learning and practical engineering.*
 
-<br>
+<br/>
 
 <img src="https://img.shields.io/badge/PROGRAM-BCA-2563EB?style=for-the-badge&labelColor=0B1220" />
 <img src="https://img.shields.io/badge/FOCUS-CLOUD%20%26%20SECURITY-0891B2?style=for-the-badge&labelColor=0B1220" />
 <img src="https://img.shields.io/badge/APPROACH-LEARN%20%26%20BUILD-7C3AED?style=for-the-badge&labelColor=0B1220" />
 
-<br><br>
+<br/><br/>
 
-[ACADEMIC ROADMAP](#02--academic-roadmap) · [TECHNICAL DOMAINS](#03--technical-domains) · [ENGINEERING ROADMAP](#05--engineering-roadmap)
+[ACADEMIC OVERVIEW](#01--academic-overview) · [SEMESTERS](#02--academic-roadmap) · [TECHNICAL DOMAINS](#03--technical-domains)
+
+[AI-ERA LEARNING](#04--learning-in-the-ai-era) · [ENGINEERING ROADMAP](#05--engineering-roadmap) · [NAVIGATION](#06--repository-navigation)
 
 </div>
 
 ---
 
-## 01 / Academic Overview
+<div align="center">
 
-This directory serves as the academic hub for my Bachelor of Computer Applications program.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=01+%2F+ACADEMIC+OVERVIEW;Building+Strong+Technical+Foundations." />
 
-It brings together semester-wise coursework and study resources while connecting academic foundations with my broader interests in cloud computing, cybersecurity, and software technology.
+</div>
+
+This directory serves as the academic hub for my **Bachelor of Computer Applications (BCA)** program.
+
+It brings together semester-wise coursework, study materials, academic exercises, and learning documentation while connecting university education with my broader interests in cloud computing, cybersecurity, and software technology.
+
+My approach is to understand the underlying concepts, strengthen theoretical foundations, and gradually translate academic knowledge into practical technical capabilities.
 
 <table>
 <tr>
@@ -63,47 +73,51 @@ Amity University Online
 </tr>
 </table>
 
-> **Academic objective:** Develop a strong understanding of computing fundamentals and translate theoretical knowledge into practical technical capabilities.
+> **Academic objective:** Build a strong understanding of computing fundamentals and develop the ability to apply theoretical knowledge to real-world technical problems.
 
 ---
 
-## 02 / Academic Roadmap
+<div align="center">
 
-### SIX SEMESTERS. ONE CONTINUOUS JOURNEY.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=02+%2F+ACADEMIC+ROADMAP;Six+Semesters.+One+Continuous+Journey." />
 
-Each semester has an independent directory containing its coursework, learning resources, and documentation.
+</div>
+
+Each semester has an independent directory containing coursework, study resources, exercises, and academic documentation.
+
+The academic journey is organized into six stages:
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 01 / SEM
+### 01 / SEMESTER
 
 **FOUNDATION**
 
-First-semester coursework and foundational concepts.
+Establishing the fundamentals of computing and information technology.
 
 [EXPLORE SEMESTER 01 →](./SEMESTER-01/)
 
 </td>
 <td width="33%" valign="top">
 
-### 02 / SEM
+### 02 / SEMESTER
 
 **PROGRESSION**
 
-Second-semester academic resources.
+Expanding technical knowledge through intermediate coursework.
 
 [EXPLORE SEMESTER 02 →](./SEMESTER-02/)
 
 </td>
 <td width="33%" valign="top">
 
-### 03 / SEM
+### 03 / SEMESTER
 
 **DEVELOPMENT**
 
-Third-semester academic resources.
+Building deeper understanding of computing concepts.
 
 [EXPLORE SEMESTER 03 →](./SEMESTER-03/)
 
@@ -112,33 +126,33 @@ Third-semester academic resources.
 <tr>
 <td width="33%" valign="top">
 
-### 04 / SEM
+### 04 / SEMESTER
 
 **APPLICATION**
 
-Fourth-semester academic resources.
+Connecting academic concepts with practical applications.
 
 [EXPLORE SEMESTER 04 →](./SEMESTER-04/)
 
 </td>
 <td width="33%" valign="top">
 
-### 05 / SEM
+### 05 / SEMESTER
 
 **SPECIALIZATION**
 
-Fifth-semester academic resources.
+Developing advanced subject knowledge and technical capabilities.
 
 [EXPLORE SEMESTER 05 →](./SEMESTER-05/)
 
 </td>
 <td width="33%" valign="top">
 
-### 06 / SEM
+### 06 / SEMESTER
 
 **COMPLETION**
 
-Final-semester academic resources.
+Consolidating academic knowledge and preparing for professional growth.
 
 [EXPLORE SEMESTER 06 →](./SEMESTER-06/)
 
@@ -146,78 +160,118 @@ Final-semester academic resources.
 </tr>
 </table>
 
+<details>
+<summary><b>📚 Academic resource organization</b></summary>
+
+Each semester directory is intended to organize:
+
+- Subject-wise notes
+- Module-wise study materials
+- Important concepts and definitions
+- Sample and practice questions
+- Academic assessments and preparation resources
+- Additional reference materials
+
+</details>
+
 ---
 
-## 03 / Technical Domains
+<div align="center">
 
-Academic knowledge is complemented by independent technical learning and practical exploration.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=03+%2F+TECHNICAL+DOMAINS;Connecting+Academics+With+Engineering." />
+
+</div>
+
+Academic learning is complemented by independent technical study and practical experimentation.
+
+The following domains represent the broader technical ecosystem I am developing alongside my degree.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**01 / PROGRAMMING**
+### 01 / PROGRAMMING
 
-Python, problem-solving, and automation.
+🐍
 
-[EXPLORE →](../python/)
+Python, programming fundamentals, problem-solving, and automation.
 
-</td>
-<td width="33%" valign="top">
-
-**02 / SYSTEMS**
-
-Linux and command-line fundamentals.
-
-[EXPLORE →](../linux/)
+[EXPLORE PYTHON →](../python/)
 
 </td>
 <td width="33%" valign="top">
 
-**03 / NETWORKING**
+### 02 / SYSTEMS
 
-Network fundamentals and communication.
+🐧
 
-[EXPLORE →](../networking/)
+Linux, command-line operations, and operating system fundamentals.
+
+[EXPLORE LINUX →](../linux/)
+
+</td>
+<td width="33%" valign="top">
+
+### 03 / NETWORKING
+
+🌐
+
+TCP/IP, DNS, network architecture, and communication protocols.
+
+[EXPLORE NETWORKING →](../networking/)
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**04 / CLOUD**
+### 04 / CLOUD
 
-Cloud infrastructure and services.
+☁️
 
-[EXPLORE →](../cloud/)
+Cloud computing, AWS services, and infrastructure fundamentals.
 
-</td>
-<td width="33%" valign="top">
-
-**05 / SECURITY**
-
-Cybersecurity and defensive practices.
-
-[EXPLORE →](../cybersecurity/)
+[EXPLORE CLOUD →](../cloud/)
 
 </td>
 <td width="33%" valign="top">
 
-**06 / ENGINEERING**
+### 05 / SECURITY
 
-Practical implementations and projects.
+🔐
 
-[EXPLORE →](../projects/)
+Cybersecurity principles, access control, and defensive security.
+
+[EXPLORE SECURITY →](../cybersecurity/)
+
+</td>
+<td width="33%" valign="top">
+
+### 06 / ENGINEERING
+
+⚙️
+
+Practical implementations, technical experiments, and projects.
+
+[EXPLORE PROJECTS →](../projects/)
 
 </td>
 </tr>
 </table>
 
+<sub>These domains represent ongoing learning interests and intended technical development, not a claim of professional proficiency.</sub>
+
 ---
 
-## 04 / Learning in the AI Era
+<div align="center">
 
-Artificial intelligence is transforming software development, infrastructure operations, and cybersecurity. My approach is to combine strong technical fundamentals with the responsible use of modern AI tools.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=04+%2F+LEARNING+IN+THE+AI+ERA;Fundamentals+First.+AI+With+Judgment." />
+
+</div>
+
+Artificial intelligence is transforming software development, infrastructure operations, and cybersecurity.
+
+My approach is to combine strong technical fundamentals with the responsible use of modern AI tools.
 
 <table>
 <tr>
@@ -225,14 +279,14 @@ Artificial intelligence is transforming software development, infrastructure ope
 
 ### 01 / UNDERSTAND
 
-Build conceptual knowledge and understand the fundamentals behind technologies.
+Build conceptual knowledge and understand the fundamentals behind technologies rather than relying only on ready-made answers.
 
 </td>
 <td width="50%" valign="top">
 
 ### 02 / EXPERIMENT
 
-Apply concepts through exercises, practical labs, and technical exploration.
+Apply concepts through exercises, practical labs, independent research, and technical exploration.
 
 </td>
 </tr>
@@ -241,14 +295,14 @@ Apply concepts through exercises, practical labs, and technical exploration.
 
 ### 03 / LEVERAGE AI
 
-Use AI as a learning and productivity tool while verifying its outputs and reasoning.
+Use AI as a learning and productivity tool while verifying its outputs, assumptions, and technical accuracy.
 
 </td>
 <td width="50%" valign="top">
 
 ### 04 / ENGINEER
 
-Build, test, document, and improve practical technical solutions.
+Build, test, document, troubleshoot, and improve practical technical solutions.
 
 </td>
 </tr>
@@ -258,68 +312,82 @@ Build, test, document, and improve practical technical solutions.
 
 ---
 
-## 05 / Engineering Roadmap
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=05+%2F+ENGINEERING+ROADMAP;From+Systems+Foundations+To+Cloud+Security." />
+
+### LONG-TERM ENGINEERING DIRECTION
+
+# CLOUD SECURITY ENGINEER
+
+</div>
 
 My long-term engineering direction is **Cloud Security Engineering**.
 
-The roadmap below represents the technical capabilities I intend to develop through academic study, independent learning, and hands-on projects.
+The roadmap below represents the technical capabilities I intend to develop through academic study, independent learning, hands-on projects, and continuous experimentation.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**01 / FOUNDATIONS**
+### 01 / FOUNDATIONS
 
-Computer Science  
-Programming  
-Problem Solving
-
-</td>
-<td width="33%" valign="top">
-
-**02 / SYSTEMS & NETWORKING**
-
-Linux  
-TCP/IP · DNS  
-Network Architecture
+- Computer Science
+- Programming
+- Problem Solving
+- IT Fundamentals
 
 </td>
 <td width="33%" valign="top">
 
-**03 / CLOUD ENGINEERING**
+### 02 / SYSTEMS & NETWORKING
 
-AWS  
-IAM · VPC  
-Cloud Infrastructure
+- Linux
+- TCP/IP · DNS
+- Network Architecture
+- System Administration
+
+</td>
+<td width="33%" valign="top">
+
+### 03 / CLOUD ENGINEERING
+
+- AWS
+- IAM · VPC
+- Compute & Storage
+- Cloud Infrastructure
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**04 / AUTOMATION & DEVOPS**
+### 04 / AUTOMATION & DEVOPS
 
-Python · Bash  
-Git · Docker  
-CI/CD · Terraform
-
-</td>
-<td width="33%" valign="top">
-
-**05 / SECURITY ENGINEERING**
-
-Access Control  
-Encryption · Logging  
-Threat Detection
+- Python · Bash
+- Git · Docker
+- CI/CD
+- Terraform
 
 </td>
 <td width="33%" valign="top">
 
-**06 / CLOUD SECURITY**
+### 05 / SECURITY ENGINEERING
 
-Secure Architecture  
-Infrastructure Security  
-DevSecOps
+- Access Control
+- Encryption · Logging
+- Threat Detection
+- Security Automation
+
+</td>
+<td width="33%" valign="top">
+
+### 06 / CLOUD SECURITY
+
+- Secure Architecture
+- Infrastructure Security
+- Cloud IAM
+- DevSecOps
 
 </td>
 </tr>
@@ -327,58 +395,72 @@ DevSecOps
 
 <div align="center">
 
-**SYSTEMS → AUTOMATION → CLOUD → SECURITY → CLOUD SECURITY**
+**FOUNDATIONS → SYSTEMS → CLOUD → AUTOMATION → SECURITY**
+
+**THE DESTINATION: CLOUD SECURITY ENGINEERING**
 
 </div>
 
-**Engineering objective:** Develop the ability to design, deploy, operate, and secure cloud infrastructure while integrating security throughout the engineering lifecycle.
+**Engineering objective:** Develop the ability to design, deploy, operate, automate, and secure cloud infrastructure while integrating security throughout the engineering lifecycle.
 
 <sub>This roadmap represents an intended learning direction, not a claim of completed proficiency. Practical projects and documented implementations will demonstrate progress.</sub>
 
 ---
 
-## 06 / Repository Navigation
+<div align="center">
 
-Explore the broader learning environment and its supporting resources.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=06+%2F+REPOSITORY+NAVIGATION;Explore+The+Broader+Learning+Environment." />
+
+</div>
+
+Explore the supporting directories that complement my academic journey.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**MAIN REPOSITORY**
+### 📖 MAIN REPOSITORY
 
-[Learning Log](../README.md)
+**Learning Log**
 
-Overall learning journey, repository structure, and current focus.
+Overall learning journey, technical interests, repository structure, and progress.
+
+[RETURN TO LEARNING LOG →](../README.md)
 
 </td>
 <td width="50%" valign="top">
 
-**DAILY DOCUMENTATION**
+### 📅 DAILY DOCUMENTATION
 
-[Daily Logs](../daily-logs/)
+**Daily Logs**
 
-Learning activities, progress, and technical notes.
+Learning activities, progress records, experiments, and technical observations.
+
+[EXPLORE DAILY LOGS →](../daily-logs/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**CERTIFICATION TRACK**
+### 🏅 CERTIFICATION TRACK
 
-[Certifications](../certifications/)
+**Certifications**
 
-Certification preparation and related resources.
+Certification preparation, study resources, and technical learning objectives.
+
+[EXPLORE CERTIFICATIONS →](../certifications/)
 
 </td>
 <td width="50%" valign="top">
 
-**PRACTICAL WORK**
+### 🛠️ PRACTICAL WORK
 
-[Projects](../projects/)
+**Projects**
 
-Hands-on implementations and technical experiments.
+Hands-on implementations, experiments, and project documentation.
+
+[EXPLORE PROJECTS →](../projects/)
 
 </td>
 </tr>
@@ -388,18 +470,28 @@ Hands-on implementations and technical experiments.
 
 <div align="center">
 
-### UNDERSTAND → PRACTICE → BUILD → VERIFY → IMPROVE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=UNDERSTAND+%E2%86%92+PRACTICE+%E2%86%92+BUILD;VERIFY+%E2%86%92+IMPROVE+%E2%86%92+REPEAT" />
 
-**ACADEMIC FOUNDATIONS. PRACTICAL ENGINEERING. CONTINUOUS LEARNING.**
+### ACADEMIC FOUNDATIONS.
 
-<br>
+### PRACTICAL ENGINEERING.
+
+### CONTINUOUS LEARNING.
+
+<br/>
 
 [← BACK TO LEARNING LOG](../README.md)
 
-<br>
+<br/>
 
-<sub>Maintained by Siddharth Kumar</sub>
+**SIDDHARTH KUMAR**
 
 <sub>BCA · Cloud Computing & Security · Amity University Online</sub>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5427A8,50:142B4D,100:0B1220&height=110&section=footer" />
+
+<sub>ACADEMIC PORTFOLIO · 2026–2029 · CONTINUOUSLY EVOLVING</sub>
 
 </div>
