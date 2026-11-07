@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://example.com/image?color=blue&amp;size=large" />type=venom&height=190&color=0:0B1220,45:142B4D,100:5427A8&text=ACADEMIC%20PORTFOLIO&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=BCA%20%7C%20CLOUD%20COMPUTING%20%26%20SECURITY&descSize=14&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=190&amp;color=0:0B1220,45:142B4D,100:5427A8&amp;text=ACADEMIC%20PORTFOLIO&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=40&amp;desc=BCA%20%7C%20CLOUD%20COMPUTING%20%26%20SECURITY&amp;descSize=14&amp;descAlignY=60&amp;animation=fadeIn" />
 
 # BCA / CLOUD COMPUTING & SECURITY
 
