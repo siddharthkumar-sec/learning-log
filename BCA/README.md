@@ -1,24 +1,6 @@
  <div align="center">
 
-# BCA / CLOUD COMPUTING &amp; SECURITY
-
-### ACADEMIC PORTFOLIO · 2026 — 2029
-
-**AMITY UNIVERSITY ONLINE**
-
-*Building the foundations of modern computing, cloud infrastructure, and cybersecurity through structured academic learning and practical engineering.*
-
-<br/>
-
-![PROGRAM](https://img.shields.io/badge/PROGRAM-BCA-2563EB?style=for-the-badge&amp;labelColor=0B1220)
-![FOCUS](https://img.shields.io/badge/FOCUS-CLOUD%20%26%20SECURITY-0891B2?style=for-the-badge&amp;labelColor=0B1220)
-![APPROACH](https://img.shields.io/badge/APPROACH-LEARN%20%26%20BUILD-7C3AED?style=for-the-badge&amp;labelColor=0B1220)
-
-<br/>
-
-**ACADEMIC ROADMAP** · **TECHNICAL DOMAINS** · **ENGINEERING ROADMAP**
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:0B1220,45:142B4D,100:5427A8&text=ACADEMIC%20PORTFOLIO&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=BCA%20%7C%20CLOUD%20COMPUTING%20%26%20SECURITY&descSize=14&descAlignY=60&animation=fadeIn" />
 
 # BCA / CLOUD COMPUTING & SECURITY
 
