@@ -118,50 +118,25 @@ Foundational study material for Module 04.
 
 Foundational study material for Module 05.
 
-<div align="center">
-
 **[OPEN MODULE 05 STUDY NOTES ↗](https://www.mediafire.com/file/giuxd8hzr9t4m1n/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-5%2529.pdf/file)**
-
-</div>
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" valign="top">
 
----
+### PRACTICE & ASSESSMENT
 
-## 03 / PRACTICE & ASSESSMENT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LEARNING-BEYOND_THEORY-0EA5E9?style=for-the-badge&amp;labelColor=0B1220" />
-
-### TEST YOUR UNDERSTANDING
-
-</div>
-
-Learning becomes meaningful when concepts can be applied independently.
+<img src="https://img.shields.io/badge/RESOURCE-PDF-8B5CF6?style=flat-square&amp;labelColor=0D1117" />
 
 Alongside module notes, I use supplementary questions to evaluate my understanding and prepare for academic assessments.
 
-<details open>
-<summary><b>📝 COMPUTER & IT — SAMPLE QUESTION BANK</b></summary>
+**[OPEN SAMPLE QUESTION ↗](https://www.mediafire.com/file/ggzs9iefn2o3e1t/Computer+and+Information+Technology.pdf/file)**
 
-**Purpose:** Practice, revision, and exam preparation.
-
-[ACCESS SAMPLE QUESTIONS ↗](https://www.mediafire.com/file/ggzs9iefn2o3e1t/Computer+and+Information+Technology.pdf/file)
-
-</details>
-
-**My preparation workflow:**
-
-1. Study the relevant topic.
-2. Understand the concepts and their applications.
-3. Attempt questions independently.
-4. Check answers and identify mistakes.
-5. Revise weak areas and practise again.
-
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ## 04 / LEARNING OBJECTIVES
 
