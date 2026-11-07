@@ -121,9 +121,7 @@ Foundational study material for Module 05.
 **[OPEN MODULE 05 STUDY NOTES ↗](https://www.mediafire.com/file/giuxd8hzr9t4m1n/COMPUTER_AND_INFORMATION_TECHNOLOGY_%2528module-5%2529.pdf/file)**
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### PRACTICE & ASSESSMENT
 
@@ -136,7 +134,8 @@ Alongside module notes, I use supplementary questions to evaluate my understandi
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
 
 ## 04 / LEARNING OBJECTIVES
 
